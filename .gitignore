@@ -1,0 +1,38 @@
+# Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Generated IDE/project files
+*.sln
+*.slnx
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserdata/
+*.xcuserstate
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Local editor / OS files
+.idea/
+.vscode/
+*.code-workspace
+*.log
+*.tmp
+*.db
+*.opendb
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Keep project source/config/content under version control.
+# Do not ignore .uproject, Source/, Config/, Content/, Plugins/, or Build/.
