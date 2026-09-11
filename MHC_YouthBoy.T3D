@@ -1,0 +1,827 @@
+Begin Object Class=/Script/MetaHumanCharacter.MetaHumanCharacter Name="MHC_YouthBoy" ExportPath="/Script/MetaHumanCharacter.MetaHumanCharacter'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy'"
+   Begin Object Class=/Script/MetaHumanCharacter.MetaHumanCharacterThumbnailAux Name="ThumbnailAux_Body" ExportPath="/Script/MetaHumanCharacter.MetaHumanCharacterThumbnailAux'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:ThumbnailAux_Body'"
+   End Object
+   Begin Object Class=/Script/MetaHumanCharacter.MetaHumanCharacterThumbnailAux Name="ThumbnailAux_Face" ExportPath="/Script/MetaHumanCharacter.MetaHumanCharacterThumbnailAux'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:ThumbnailAux_Face'"
+   End Object
+   Begin Object Class=/Script/MetaHumanCharacter.MetaHumanCharacterThumbnailAux Name="ThumbnailAux_CharacterBody" ExportPath="/Script/MetaHumanCharacter.MetaHumanCharacterThumbnailAux'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:ThumbnailAux_CharacterBody'"
+   End Object
+   Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanCollection Name="InternalCollection" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanCollection'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection'"
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanInstance Name="DefaultInstance" Archetype="/Script/MetaHumanCharacterPalette.MetaHumanInstance'/Script/MetaHumanCharacterPalette.Default__MetaHumanCollection:DefaultInstance'" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanInstance'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.DefaultInstance'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_86" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_86'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_86.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_86" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_86'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_84" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_84'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_84.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_84" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_84'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_83" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_83'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_83.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_83" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_83'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_17" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_17'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_17.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_17" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_17'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_15" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_15'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_15.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_15" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_15'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_13" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_13'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_13.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_13" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_13'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_11" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_11'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_11.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_11" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_11'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_9" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_9'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_9.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_9" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_9'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_7" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_7'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_7.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_7" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_7'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_5190" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5190'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5190.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_5190" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5190'"
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_4" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_4'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_4" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_4'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_4.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_5" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_5" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_5188" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5188'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5188.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_5188" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5188'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_5187" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5187'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5187.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_5187" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5187'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_5186" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5186'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5186.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_5186" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5186'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_5185" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5185'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5185.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_5185" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5185'"
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_210" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_210'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_210" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_210'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_210.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_271" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_271'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_271" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_271'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_271.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_272" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_272'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_272" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_272'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_272.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_381" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_381'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_381" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_381'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_381.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_382" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_382'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_382" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_382'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_382.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_418" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_418'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_418" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_418'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_418.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_419" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_419'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_419" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_419'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_419.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_456" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_456'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_456" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_456'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_456.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_492" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_492'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_492" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_492'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_492.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_618" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_618'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_618" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_618'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_618.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_6674" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6674'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6674.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_6674" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_6674'"
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_995" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_995'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_995" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_995'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_995.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_996" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_996'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_996" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_996'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_996.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_6589" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6589'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6589.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_6589" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_6589'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_6526" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6526'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6526.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_6526" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_6526'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_6409" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6409'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6409.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_6409" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_6409'"
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_1341" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_1341'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_1341" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_1341'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_1341.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_1342" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_1342'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_1342" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_1342'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_1342.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_1351" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_1351'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_1351" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_1351'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_1351.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_1352" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_1352'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_1352" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_1352'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_1352.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_6192" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6192'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6192.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_6192" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_6192'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_6106" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6106'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6106.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_6106" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_6106'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_5195" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5195'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5195.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_5195" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5195'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_6039" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6039'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6039.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_6039" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_6039'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_5193" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5193'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5193.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_5193" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5193'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_5192" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5192'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5192.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_5192" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5192'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_5955" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5955'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5955.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_5955" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5955'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_5191" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5191'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5191.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_5191" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5191'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_5814" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5814'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5814.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_5814" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5814'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_5813" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5813'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5813.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_5813" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5813'"
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_2489" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_2489'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_2489" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_2489'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_2489.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_2490" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_2490'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_2490" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_2490'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_2490.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_5198" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5198'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5198.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_5198" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5198'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_5197" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5197'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5197.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_5197" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5197'"
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_2632" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_2632'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_2632" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_2632'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_2632.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_2633" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_2633'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_2633" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_2633'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_2633.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_5196" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5196'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5196.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_5196" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5196'"
+      End Object
+      Begin Object Class=/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem Name="MetaHumanWardrobeItem_2635" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_2635'"
+      End Object
+      Begin Object Class=/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C Name="BP_DefaultPipeline_C_2635" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_2635'"
+         Begin Object Class=/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline Name="MetaHumanDefaultEditorPipeline_0" Archetype="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.Default__BP_DefaultPipeline_C:MetaHumanDefaultEditorPipeline_0'" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_2635.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+      End Object
+   End Object
+   Begin Object Name="ThumbnailAux_Body" ExportPath="/Script/MetaHumanCharacter.MetaHumanCharacterThumbnailAux'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:ThumbnailAux_Body'"
+   End Object
+   Begin Object Name="ThumbnailAux_Face" ExportPath="/Script/MetaHumanCharacter.MetaHumanCharacterThumbnailAux'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:ThumbnailAux_Face'"
+   End Object
+   Begin Object Name="ThumbnailAux_CharacterBody" ExportPath="/Script/MetaHumanCharacter.MetaHumanCharacterThumbnailAux'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:ThumbnailAux_CharacterBody'"
+   End Object
+   Begin Object Name="InternalCollection" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanCollection'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection'"
+      Begin Object Name="DefaultInstance" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanInstance'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.DefaultInstance'"
+         OverriddenInstanceParameters=(((Item=(PrincipalAssetOrExternalWardrobeItem=(Asset="/MetaHumanCharacter/Optional/Grooms/Bindings/Eyelashes/WI_Eyelashes_S_Sparse.WI_Eyelashes_S_Sparse",AssetIdentifier="/MetaHumanCharacter/Optional/Grooms/Bindings/Eyelashes/WI_Eyelashes_S_Sparse.WI_Eyelashes_S_Sparse"),bReferencesExternalWardrobeItem=True)), (Value=/Engine/Transient.PropertyBag_d267b9b3dc4e2ed7(Melanin=0.850000,Whiteness=0.100000))),((Item=(PrincipalAssetOrExternalWardrobeItem=(Asset="/MetaHumanCharacter/Optional/Clothing/WI_DefaultGarment.WI_DefaultGarment",AssetIdentifier="/MetaHumanCharacter/Optional/Clothing/WI_DefaultGarment.WI_DefaultGarment"),bReferencesExternalWardrobeItem=True)), (Value=/Engine/Transient.PropertyBag_cef0619a1bf368c5(PrimaryColorShirt=(R=0.590619,G=0.590619,B=0.590619,A=1.000000),SecondaryColorShirt=(R=0.590619,G=0.590619,B=0.590619,A=1.000000),PrimaryColorShort=(R=0.590619,G=0.590619,B=0.590619,A=1.000000),SecondaryColorShort=(R=0.590619,G=0.590619,B=0.590619,A=1.000000)))),((Item=(PrincipalAssetOrExternalWardrobeItem=(Asset="/MetaHumanCharacter/Optional/Grooms/Bindings/Beards/WI_Goatee_M_Soulpatch.WI_Goatee_M_Soulpatch",AssetIdentifier="/MetaHumanCharacter/Optional/Grooms/Bindings/Beards/WI_Goatee_M_Soulpatch.WI_Goatee_M_Soulpatch"),bReferencesExternalWardrobeItem=True)), (Value=/Engine/Transient.PropertyBag_e20c61e1331a8254(Whiteness=0.100000,Melanin=0.850000))),((Item=(PrincipalAssetOrExternalWardrobeItem=(Asset="/MetaHumanCharacter/Optional/Grooms/Bindings/Eyebrows/WI_Eyebrows_M_Dense.WI_Eyebrows_M_Dense",AssetIdentifier="/MetaHumanCharacter/Optional/Grooms/Bindings/Eyebrows/WI_Eyebrows_M_Dense.WI_Eyebrows_M_Dense"),bReferencesExternalWardrobeItem=True)), (Value=/Engine/Transient.PropertyBag_181f96744bb75b2b(Melanin=0.850000,Whiteness=0.100000))),((Item=(PrincipalAssetOrExternalWardrobeItem=(Asset="/MetaHumanCharacter/Optional/Grooms/Bindings/Mustaches/WI_Mustache_M_Curly.WI_Mustache_M_Curly",AssetIdentifier="/MetaHumanCharacter/Optional/Grooms/Bindings/Mustaches/WI_Mustache_M_Curly.WI_Mustache_M_Curly"),bReferencesExternalWardrobeItem=True)), (Value=/Engine/Transient.PropertyBag_181f96744bb75b2b(Melanin=0.850000,Whiteness=0.100000))),((Item=(PrincipalAssetOrExternalWardrobeItem=(Asset="/MetaHumanCharacter/Optional/Grooms/Bindings/Hair/WI_Hair_S_BrushCut.WI_Hair_S_BrushCut",AssetIdentifier="/MetaHumanCharacter/Optional/Grooms/Bindings/Hair/WI_Hair_S_BrushCut.WI_Hair_S_BrushCut"),bReferencesExternalWardrobeItem=True)), (Value=/Engine/Transient.PropertyBag_6005724ded057c84(Melanin=0.850000,bUseOmbre=True,OmbreShift=0.500000,OmbreContrast=0.500000,OmbreColor=(R=0.474215,G=0.494381,B=0.692708,A=1.000000),OmbreU=0.300000,Whiteness=0.180000,OmbreV=0.250000,bUseHighlights=False,HighlightsColor=(R=0.220486,G=0.710979,B=1.000000,A=1.000000),HighlightsVariation=0.100000,DyeColor=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),HighlightsIntensity=0.500000))),((Item=(PrincipalAssetOrExternalWardrobeItem=(Asset="/MetaHumanCharacter/Optional/Grooms/Bindings/Eyebrows/WI_Eyebrows_M_Unruly.WI_Eyebrows_M_Unruly",AssetIdentifier="/MetaHumanCharacter/Optional/Grooms/Bindings/Eyebrows/WI_Eyebrows_M_Unruly.WI_Eyebrows_M_Unruly"),bReferencesExternalWardrobeItem=True)), (Value=/Engine/Transient.PropertyBag_db737f71f07e7b11(Roughness=0.322001))),((Item=(PrincipalAssetOrExternalWardrobeItem=(Asset="/MetaHumanCharacter/Optional/Grooms/Bindings/Eyebrows/WI_Eyebrows_M_Full.WI_Eyebrows_M_Full",AssetIdentifier="/MetaHumanCharacter/Optional/Grooms/Bindings/Eyebrows/WI_Eyebrows_M_Full.WI_Eyebrows_M_Full"),bReferencesExternalWardrobeItem=True)), (Value=/Engine/Transient.PropertyBag_216de4f1e428f57c(Roughness=1.000000,Whiteness=0.000000,Melanin=0.942584,Redness=0.000000,Lightness=0.500000))),((Item=(PrincipalAssetOrExternalWardrobeItem=(Asset="/MetaHumanCharacter/Optional/Grooms/Bindings/Hair/WI_Hair_S_CoilBuzzCut.WI_Hair_S_CoilBuzzCut",AssetIdentifier="/MetaHumanCharacter/Optional/Grooms/Bindings/Hair/WI_Hair_S_CoilBuzzCut.WI_Hair_S_CoilBuzzCut"),bReferencesExternalWardrobeItem=True)), (Value=/Engine/Transient.PropertyBag_96b695ea690becc7(Roughness=1.000000,Lightness=0.000000,Melanin=1.000000,Redness=0.093750,Whiteness=1.000000))))
+         SlotSelections(0)=(Selection=(SlotName="Character",SelectedItem=(PrincipalAssetOrExternalWardrobeItem=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy"))))
+         SlotSelections(1)=(Selection=(SlotName="Eyebrows",SelectedItem=(PrincipalAssetOrExternalWardrobeItem=(Asset="/MetaHumanCharacter/Optional/Grooms/Bindings/Eyebrows/WI_Eyebrows_M_Full.WI_Eyebrows_M_Full",AssetIdentifier="/MetaHumanCharacter/Optional/Grooms/Bindings/Eyebrows/WI_Eyebrows_M_Full.WI_Eyebrows_M_Full"),bReferencesExternalWardrobeItem=True)))
+         SlotSelections(2)=(Selection=(SlotName="Eyelashes",SelectedItem=(PrincipalAssetOrExternalWardrobeItem=(Asset="/MetaHumanCharacter/Optional/Grooms/Bindings/Eyelashes/WI_Eyelashes_S_Sparse.WI_Eyelashes_S_Sparse",AssetIdentifier="/MetaHumanCharacter/Optional/Grooms/Bindings/Eyelashes/WI_Eyelashes_S_Sparse.WI_Eyelashes_S_Sparse"),bReferencesExternalWardrobeItem=True)))
+         SlotSelections(3)=(Selection=(SlotName="Peachfuzz",SelectedItem=(PrincipalAssetOrExternalWardrobeItem=(Asset="/MetaHumanCharacter/Optional/Grooms/Bindings/Peachfuzz/WI_Peachfuzz_M_Thin.WI_Peachfuzz_M_Thin",AssetIdentifier="/MetaHumanCharacter/Optional/Grooms/Bindings/Peachfuzz/WI_Peachfuzz_M_Thin.WI_Peachfuzz_M_Thin"),bReferencesExternalWardrobeItem=True)))
+         SlotSelections(4)=(Selection=(SlotName="Outfits",SelectedItem=(PrincipalAssetOrExternalWardrobeItem=(Asset="/MetaHumanCharacter/Optional/Clothing/WI_DefaultGarment.WI_DefaultGarment",AssetIdentifier="/MetaHumanCharacter/Optional/Clothing/WI_DefaultGarment.WI_DefaultGarment"),bReferencesExternalWardrobeItem=True)))
+         SlotSelections(5)=(Selection=(SlotName="Hair",SelectedItem=(PrincipalAssetOrExternalWardrobeItem=(Asset="/MetaHumanCharacter/Optional/Grooms/Bindings/Hair/WI_Hair_S_CoilBuzzCut.WI_Hair_S_CoilBuzzCut",AssetIdentifier="/MetaHumanCharacter/Optional/Grooms/Bindings/Hair/WI_Hair_S_CoilBuzzCut.WI_Hair_S_CoilBuzzCut"),bReferencesExternalWardrobeItem=True)))
+         Collection="/Script/MetaHumanCharacterPalette.MetaHumanCollection'MHC_YouthBoy:InternalCollection'"
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_86" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_86'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_86.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_86" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_86'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_84" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_84'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_84.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_84" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_84'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_83" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_83'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_83.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_83" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_83'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_17" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_17'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_17.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_17" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_17'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_15" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_15'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_15.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_15" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_15'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_13" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_13'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_13.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_13" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_13'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_11" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_11'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_11.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_11" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_11'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_9" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_9'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_9.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_9" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_9'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_7" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_7'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_7.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_7" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_7'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_5190" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5190'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5190.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_5190" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5190'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_4" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_4'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_4" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_4'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_4.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_5" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_5" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_5188" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5188'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5188.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_5188" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5188'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_5187" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5187'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5187.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_5187" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5187'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_5186" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5186'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5186.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_5186" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5186'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_5185" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5185'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5185.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_5185" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5185'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_210" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_210'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_210" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_210'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_210.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_271" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_271'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_271" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_271'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_271.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_272" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_272'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_272" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_272'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_272.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_381" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_381'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_381" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_381'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_381.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_382" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_382'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_382" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_382'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_382.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_418" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_418'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_418" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_418'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_418.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_419" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_419'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_419" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_419'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_419.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_456" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_456'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_456" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_456'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_456.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_492" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_492'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_492" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_492'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_492.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_618" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_618'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_618" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_618'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_618.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_6674" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6674'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6674.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_6674" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_6674'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_995" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_995'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_995" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_995'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_995.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_996" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_996'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_996" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_996'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_996.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_6589" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6589'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6589.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_6589" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_6589'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_6526" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6526'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6526.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_6526" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_6526'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_6409" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6409'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6409.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_6409" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_6409'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_1341" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_1341'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_1341" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_1341'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_1341.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_1342" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_1342'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_1342" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_1342'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_1342.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_1351" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_1351'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_1351" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_1351'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_1351.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_1352" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_1352'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_1352" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_1352'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_1352.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_6192" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6192'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6192.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_6192" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_6192'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_6106" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6106'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6106.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_6106" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_6106'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_5195" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5195'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5195.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_5195" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5195'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_6039" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6039'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_6039.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_6039" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_6039'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_5193" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5193'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5193.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_5193" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5193'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_5192" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5192'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5192.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_5192" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5192'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_5955" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5955'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5955.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_5955" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5955'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_5191" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5191'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5191.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_5191" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5191'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_5814" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5814'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5814.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_5814" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5814'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_5813" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5813'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5813.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_5813" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5813'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_2489" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_2489'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_2489" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_2489'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_2489.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_2490" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_2490'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_2490" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_2490'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_2490.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_5198" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5198'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5198.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_5198" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5198'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_5197" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5197'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5197.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_5197" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5197'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_2632" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_2632'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_2632" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_2632'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_2632.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_2633" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_2633'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_2633" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_2633'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_2633.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_5196" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5196'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_5196.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_5196" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_5196'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="MetaHumanWardrobeItem_2635" ExportPath="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.MetaHumanWardrobeItem_2635'"
+         PrincipalAsset=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy")
+      End Object
+      Begin Object Name="BP_DefaultPipeline_C_2635" ExportPath="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_2635'"
+         Begin Object Name="MetaHumanDefaultEditorPipeline_0" ExportPath="/Script/MetaHumanDefaultEditorPipeline.MetaHumanDefaultEditorPipeline'/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy:InternalCollection.BP_DefaultPipeline_C_2635.MetaHumanDefaultEditorPipeline_0'"
+         End Object
+         EditorPipeline="MetaHumanDefaultEditorPipeline_0"
+      End Object
+      BuildCacheGuid=FCF3095E47F8AB3E59F094A51D280720
+      Pipeline="/MetaHumanCharacter/BuildPipeline/BP_DefaultPipeline.BP_DefaultPipeline_C'BP_DefaultPipeline_C_6674'"
+      DefaultInstance="DefaultInstance"
+      Items(0)=(WardrobeItem="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'MetaHumanWardrobeItem_6674'",SlotName="Character",DisplayName=NSLOCTEXT("", "17DC9A064635C392BBC0F2B3EEA207A7", "NewMetaHumanCharacter"))
+      Items(1)=(WardrobeItem="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/MetaHumanCharacter/Optional/Grooms/Bindings/Eyebrows/WI_Eyebrows_M_Dense.WI_Eyebrows_M_Dense'",SlotName="Eyebrows")
+      Items(2)=(WardrobeItem="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/MetaHumanCharacter/Optional/Grooms/Bindings/Peachfuzz/WI_Peachfuzz_M_Thin.WI_Peachfuzz_M_Thin'",SlotName="Peachfuzz")
+      Items(3)=(WardrobeItem="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/MetaHumanCharacter/Optional/Grooms/Bindings/Eyelashes/WI_Eyelashes_S_Sparse.WI_Eyelashes_S_Sparse'",SlotName="Eyelashes")
+      Items(4)=(WardrobeItem="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/MetaHumanCharacter/Optional/Grooms/Bindings/Mustaches/WI_Mustache_M_Curly.WI_Mustache_M_Curly'",SlotName="Mustache")
+      Items(5)=(WardrobeItem="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/MetaHumanCharacter/Optional/Grooms/Bindings/Beards/WI_Goatee_M_Soulpatch.WI_Goatee_M_Soulpatch'",SlotName="Beard")
+      Items(6)=(WardrobeItem="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/MetaHumanCharacter/Optional/Grooms/Bindings/Hair/WI_Hair_S_BrushCut.WI_Hair_S_BrushCut'",SlotName="Hair")
+      Items(7)=(WardrobeItem="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/MetaHumanCharacter/Optional/Clothing/WI_DefaultGarment.WI_DefaultGarment'",SlotName="Outfits")
+      Items(8)=(WardrobeItem="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/MetaHumanCharacter/Optional/Grooms/Bindings/Hair/WI_Hair_S_BaldingStubble.WI_Hair_S_BaldingStubble'",SlotName="Hair",DisplayName=NSLOCTEXT("", "3087301C414DEA0762697EACCB40A982", "Hair_S_BaldingStubble_Binding"))
+      Items(9)=(WardrobeItem="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/MetaHumanCharacter/Optional/Grooms/Bindings/Hair/WI_Hair_S_CoilBuzzCut.WI_Hair_S_CoilBuzzCut'",SlotName="Hair",DisplayName=NSLOCTEXT("", "60B93CD64781AE8B088A04918ED0616D", "Hair_S_CoilBuzzCut_Binding"))
+      Items(10)=(WardrobeItem="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/MetaHumanCharacter/Optional/Grooms/Bindings/Eyebrows/WI_Eyebrows_L_Shaded.WI_Eyebrows_L_Shaded'",SlotName="Eyebrows",DisplayName=NSLOCTEXT("", "28B9E92F4CCB78BF27BD70AD7E0D1C6E", "Eyebrows_L_Shaded_Binding"))
+      Items(11)=(WardrobeItem="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/MetaHumanCharacter/Optional/Grooms/Bindings/Eyebrows/WI_Eyebrows_M_FlatThick.WI_Eyebrows_M_FlatThick'",SlotName="Eyebrows",DisplayName=NSLOCTEXT("", "94BCB42B4FAB09041DDA87B2D56E3EFC", "Eyebrows_M_FlatThick_Binding"))
+      Items(12)=(WardrobeItem="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/MetaHumanCharacter/Optional/Grooms/Bindings/Eyebrows/WI_Eyebrows_M_Shaded.WI_Eyebrows_M_Shaded'",SlotName="Eyebrows",DisplayName=NSLOCTEXT("", "E542181443C52DD3750452BDB87E3FFE", "Eyebrows_M_Shaded_Binding"))
+      Items(13)=(WardrobeItem="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/MetaHumanCharacter/Optional/Grooms/Bindings/Eyebrows/WI_Eyebrows_M_Wide.WI_Eyebrows_M_Wide'",SlotName="Eyebrows",DisplayName=NSLOCTEXT("", "D4630B064EA193DA73D03BAE8ADB180B", "Eyebrows_M_Wide_Binding"))
+      Items(14)=(WardrobeItem="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/MetaHumanCharacter/Optional/Grooms/Bindings/Eyebrows/WI_Eyebrows_M_Unruly.WI_Eyebrows_M_Unruly'",SlotName="Eyebrows",DisplayName=NSLOCTEXT("", "A481CEB0421670E83C54BDA0553D54F6", "Eyebrows_M_Unruly_Binding"))
+      Items(15)=(WardrobeItem="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/MetaHumanCharacter/Optional/Grooms/Bindings/Eyebrows/WI_Eyebrows_M_Full.WI_Eyebrows_M_Full'",SlotName="Eyebrows",DisplayName=NSLOCTEXT("", "0D170FAA4BE5FA9A5B75A69DBF972001", "Eyebrows_M_Full_Binding"))
+      Items(16)=(WardrobeItem="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/MetaHumanCharacter/Optional/Grooms/Bindings/Beards/WI_Beard_M_Stubble.WI_Beard_M_Stubble'",SlotName="Beard",DisplayName=NSLOCTEXT("", "1BCF3C2846BE76038889BEA37B36CD69", "Beard_M_Stubble_Binding"))
+      Items(17)=(WardrobeItem="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/MetaHumanCharacter/Optional/Grooms/Bindings/Mustaches/WI_Mustache_M_Stubble.WI_Mustache_M_Stubble'",SlotName="Mustache",DisplayName=NSLOCTEXT("", "08323A874FF8E2D5CB2BCB8E961F9DF7", "Mustache_M_Stubble_Binding"))
+      Items(18)=(WardrobeItem="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/MetaHumanCharacter/Optional/Grooms/Bindings/Beards/WI_Beard_S_PencilThin.WI_Beard_S_PencilThin'",SlotName="Beard",DisplayName=NSLOCTEXT("", "9EB64BD94AC3417CC3DF3EBB5838C5FF", "Beard_S_PencilThin_Binding"))
+      Items(19)=(WardrobeItem="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/MetaHumanCharacter/Optional/Grooms/Bindings/Hair/WI_Hair_S_Casual.WI_Hair_S_Casual'",SlotName="Hair",DisplayName=NSLOCTEXT("", "AFAC0EB841955FFB157CE6BD9ADCC3E5", "Hair_S_Casual_Binding"))
+      Items(20)=(WardrobeItem="/Script/MetaHumanCharacterPalette.MetaHumanWardrobeItem'/MetaHumanCharacter/Optional/Grooms/Bindings/Hair/WI_Hair_S_Pixie.WI_Hair_S_Pixie'",SlotName="Hair",DisplayName=NSLOCTEXT("", "8CF1D08E4172EF3327AFC584A23B29F5", "Hair_S_Pixie_Binding"))
+   End Object
+   FaceEvaluationSettings=(HighFrequencyDelta=0.000000)
+   HeadModelSettings=(Eyelashes=(Type=ShortSparse),Teeth=(ToothLength=1.000000,ToothSpacing=-1.000000,UpperShift=-0.324000,LowerShift=-0.248000,Overbite=-0.077000,Overjet=0.247000,Polycanine=0.526000,RecedingGums=0.192000,Variation=0.335498,TeethColor=(R=0.982251,G=0.879623,B=0.854993,A=1.000000),PlaqueColor=(R=0.982251,G=0.879623,B=0.854993,A=1.000000),PlaqueAmount=0.100000))
+   SkinSettings=(Skin=(U=0.078947,V=1.000000,BodyBias=(X=146.856400,Y=77.384995,Z=65.433479),BodyGain=(X=46.487858,Y=22.822866,Z=16.302048),bShowTopUnderwear=False,BodyTextureIndex=2,FaceTextureIndex=28),Accents=(Lips=(Redness=0.400000,Saturation=0.400000)))
+   EyesSettings=(EyeLeft=(Iris=(IrisPattern=Iris007,PrimaryColorU=0.235885,PrimaryColorV=0.770312,SecondaryColorU=0.283732,SecondaryColorV=0.495313,ColorBlend=0.626733,ColorBlendSoftness=0.770000,ShadowDetails=0.536354,LimbalRingSize=0.806219,LimbalRingSoftness=0.085000,LimbalRingColor=(R=0.840625,G=0.840625,B=0.840625,A=1.000000),GlobalSaturation=0.760000),Pupil=(Dilation=0.955000,Feather=0.720000),Cornea=(Size=0.163800,LimbusSoftness=0.072000,LimbusColor=(R=0.846873,G=0.896270,B=1.000000,A=1.000000)),Sclera=(Tint=(R=0.945813,G=0.931677,B=0.924609,A=1.000000),TransmissionColor=(R=0.853801,G=0.864415,B=0.882291,A=1.000000),VascularityIntensity=0.200000)),EyeRight=(Iris=(IrisPattern=Iris007,PrimaryColorU=0.235885,PrimaryColorV=0.770312,SecondaryColorU=0.283732,SecondaryColorV=0.495313,ColorBlend=0.626733,ColorBlendSoftness=0.770000,ShadowDetails=0.536354,LimbalRingSize=0.806219,LimbalRingSoftness=0.085000,LimbalRingColor=(R=0.840625,G=0.840625,B=0.840625,A=1.000000),GlobalSaturation=0.760000),Pupil=(Dilation=0.955000,Feather=0.720000),Cornea=(Size=0.163800,LimbusSoftness=0.072000,LimbusColor=(R=0.846873,G=0.896270,B=1.000000,A=1.000000)),Sclera=(Tint=(R=0.945813,G=0.931677,B=0.924609,A=1.000000),TransmissionColor=(R=0.853801,G=0.864415,B=0.882291,A=1.000000),VascularityIntensity=0.200000)))
+   MakeupSettings=(Foundation=(Color=(R=0.932133,G=0.620057,B=0.552278,A=1.000000)),Eyes=(Type=PandaSmudge,PrimaryColor=(R=0.351533,G=0.141263,B=0.099899,A=1.000000),Opacity=0.380000),Lips=(Type=Natural,Color=(R=0.185764,G=0.067343,B=0.039217,A=1.000000),Roughness=0.350000,Opacity=0.200000,Metalness=0.000000))
+   bHasHighResolutionTextures=True
+   SynthesizedFaceTexturesInfo=((Basecolor, (SizeX=2048,SizeY=2048,NumSlices=1)),(Normal, (SizeX=2048,SizeY=2048,NumSlices=1)),(Cavity, (SizeX=2048,SizeY=2048,NumSlices=1)),(Basecolor_Animated_CM1, (SizeX=2048,SizeY=2048,NumSlices=1)),(Basecolor_Animated_CM2, (SizeX=2048,SizeY=2048,NumSlices=1)),(Basecolor_Animated_CM3, (SizeX=2048,SizeY=2048,NumSlices=1)),(Normal_Animated_WM1, (SizeX=2048,SizeY=2048,NumSlices=1)),(Normal_Animated_WM2, (SizeX=2048,SizeY=2048,NumSlices=1)),(Normal_Animated_WM3, (SizeX=2048,SizeY=2048,NumSlices=1)))
+   HighResBodyTexturesInfo=((Body_Basecolor, (SizeX=2048,SizeY=2048,NumSlices=1)),(Body_Normal, (SizeX=2048,SizeY=2048,NumSlices=1)),(Body_Cavity, (SizeX=2048,SizeY=2048,NumSlices=1)),(Body_Underwear_Basecolor, (SizeX=2048,SizeY=2048,NumSlices=1)),(Body_Underwear_Normal, (SizeX=2048,SizeY=2048,NumSlices=1)),(Body_Underwear_Mask, (SizeX=2048,SizeY=2048,NumSlices=1)),(Chest_Basecolor, (SizeX=2048,SizeY=2048,NumSlices=1)),(Chest_Normal, (SizeX=2048,SizeY=2048,NumSlices=1)),(Chest_Cavity, (SizeX=2048,SizeY=2048,NumSlices=1)),(Chest_Underwear_Basecolor, (SizeX=2048,SizeY=2048,NumSlices=1)),(Chest_Underwear_Normal, (SizeX=2048,SizeY=2048,NumSlices=1)))
+   ViewportSettings=(CharacterEnvironment=Studio,RenderingQualityProfileIndex=0)
+   PreviewMaterialType=Editable
+   AssemblySettings=(NameOverride="MHC_YouthBoy")
+   ThumbnailAux_CharacterBody="/Script/MetaHumanCharacter.MetaHumanCharacterThumbnailAux'ThumbnailAux_CharacterBody'"
+   ThumbnailAux_Face="/Script/MetaHumanCharacter.MetaHumanCharacterThumbnailAux'ThumbnailAux_Face'"
+   ThumbnailAux_Body="/Script/MetaHumanCharacter.MetaHumanCharacterThumbnailAux'ThumbnailAux_Body'"
+   InternalCollection="/Script/MetaHumanCharacterPalette.MetaHumanCollection'InternalCollection'"
+   InternalCollectionKey=(PrincipalAssetOrExternalWardrobeItem=(Asset="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy",AssetIdentifier="/Game/YouthBoy/MHC_YouthBoy.MHC_YouthBoy"))
+   bHasFaceDNABlendshapes=True
+End Object
